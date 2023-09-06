@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Muralitharan2002/X-o-X_Game.git/static/css/main.3584d53d.css",
-    "main.js": "/Muralitharan2002/X-o-X_Game.git/static/js/main.60e4e28c.js",
-    "static/js/787.393238a3.chunk.js": "/Muralitharan2002/X-o-X_Game.git/static/js/787.393238a3.chunk.js",
-    "index.html": "/Muralitharan2002/X-o-X_Game.git/index.html",
-    "main.3584d53d.css.map": "/Muralitharan2002/X-o-X_Game.git/static/css/main.3584d53d.css.map",
-    "main.60e4e28c.js.map": "/Muralitharan2002/X-o-X_Game.git/static/js/main.60e4e28c.js.map",
-    "787.393238a3.chunk.js.map": "/Muralitharan2002/X-o-X_Game.git/static/js/787.393238a3.chunk.js.map"
+    "main.css": "/X-o-X_Game/static/css/main.3584d53d.css",
+    "main.js": "/X-o-X_Game/static/js/main.ba583a08.js",
+    "static/js/787.393238a3.chunk.js": "/X-o-X_Game/static/js/787.393238a3.chunk.js",
+    "index.html": "/X-o-X_Game/index.html",
+    "main.3584d53d.css.map": "/X-o-X_Game/static/css/main.3584d53d.css.map",
+    "main.ba583a08.js.map": "/X-o-X_Game/static/js/main.ba583a08.js.map",
+    "787.393238a3.chunk.js.map": "/X-o-X_Game/static/js/787.393238a3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3584d53d.css",
-    "static/js/main.60e4e28c.js"
+    "static/js/main.ba583a08.js"
   ]
 }
